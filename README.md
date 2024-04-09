@@ -48,10 +48,10 @@ Our goal is to develop a **Database Backup and Recovery System** using PHP and t
 
 ## Estimated Time ⏳
 - **User Management Interface**: 3 days
-- **Admin Panel**: 3 days
+- **Admin Panel**: 2 days
 - **Database Backup and Recovery**: 2 days
 - **Integration and Testing**: 1 day
-- **Total Estimated Time**: 10 days
+- **Total Estimated Time**: 8 days
 
 ## Note 📝
 The main focus is on functionality rather than design. We're aiming for a system that works smoothly and meets the organization's needs efficiently.
