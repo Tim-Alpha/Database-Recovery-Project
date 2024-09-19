@@ -50,6 +50,10 @@ Our goal is to develop a **Database Backup and Recovery System** using PHP and t
 
 ## Estimated Time ⏳
 - **Total Estimated Time**: 4 days
+- 
+## How To Submit
+- Record a video of your screen while testing all the APIs, including your face and providing explanations. You can use any screen recording tool, but make sure the video and audio quality are clear (Ex: OBS Studio, Loom etc).
+- Push your code to GitHub and share the repository link with us.
 
 ## Note 📝
 The main focus is on functionality rather than design. We're aiming for a system that works smoothly and meets the organization's needs efficiently.
